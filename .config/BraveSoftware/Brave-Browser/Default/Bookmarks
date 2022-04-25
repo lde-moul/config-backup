@@ -1,0 +1,47 @@
+{
+   "checksum": "32c12d6db3a59eda77fdcce504e8a988",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13282240492468043",
+            "guid": "6b2d6e08-9c41-49ed-852f-50b42cbe74b0",
+            "id": "6",
+            "name": "Intra",
+            "type": "url",
+            "url": "https://profile.intra.42.fr/"
+         }, {
+            "date_added": "13294159610716549",
+            "guid": "05f55445-6cbf-4f6a-98f6-042fccce79da",
+            "id": "11",
+            "name": "Scop subject",
+            "type": "url",
+            "url": "https://cdn.intra.42.fr/pdf/pdf/48702/en.subject.pdf"
+         } ],
+         "date_added": "13282240270710439",
+         "date_modified": "13294159610716549",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13282240270710444",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13282240270710446",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

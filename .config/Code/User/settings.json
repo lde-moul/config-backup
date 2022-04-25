@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "files.restoreUndoStack": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "search.seedWithNearestWord": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+    "explorer.confirmDragAndDrop": false
+}
